@@ -1,4 +1,4 @@
-Your project, HR Analytics Dashboard, is focused on analyzing and visualizing key Human Resources (HR) metrics using Power BI. The main objectives of your dashboard are:
+HR Analytics Dashboard, is focused on analyzing and visualizing key Human Resources (HR) metrics using Power BI. The main objectives of your dashboard are:
 
 Employee Headcount & Distribution: Track total employees across departments.
 
